@@ -8,4 +8,5 @@ Implemented Naive Bayes from scratch and build pipeline for other models, provid
 Worked with Neil Tang.
 
 # Preview
+Cross Validation Results for Linear SVM
 > ![cv](/cv.png)

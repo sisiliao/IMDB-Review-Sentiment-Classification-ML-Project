@@ -6,3 +6,6 @@ Compare Bernoulli Naive Bayes, Logistic Regression, Decision Tree and Linear SVM
 Implemented Naive Bayes from scratch and build pipeline for other models, provided in SKLearn.
 
 Worked with Neil Tang.
+
+# Preview
+> ![cv](/cv.png)

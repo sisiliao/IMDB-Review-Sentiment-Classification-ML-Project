@@ -3,4 +3,6 @@ A machine learning project to predict the classification of IMDB movie review. (
 
 Compare Bernoulli Naive Bayes, Logistic Regression, Decision Tree and Linear SVM models performances.
 
+Implemented Naive Bayes from scratch and build pipeline for other models, provided in SKLearn.
+
 Worked with Neil Tang.
